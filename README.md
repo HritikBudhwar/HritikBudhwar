@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HritikBudhwar
 - 👀 I’m interested in machine learning, data science, web development, open-source contributions, Aritificial intelligence ,projects.
-- 🌱 I’m currently learning C programming,python,Java, data structures, algorithms, and basics of web development.
+- 🌱 I’m currently learning C programming,c++,python,Java, data structures, algorithms, and basics of web development.
 - 💞️ I’m looking to collaborate on  beginner-friendly open-source projects, simple web applications, coding challenges, innovative AI solutions and web development frameworks
 - 📫 How to reach me: Email:budhwarhritik2@gmail.com , LinkedIn: www.linkedin.com/in/hritik-budhwar-8aa528315
 - 😄 Pronouns: he/him
