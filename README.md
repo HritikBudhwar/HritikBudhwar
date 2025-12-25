@@ -5,6 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Backend+%26+Systems+Developer;Computer+Science+Undergraduate;Building+Scalable+Solutions;Learning+Through+Projects" alt="Typing animation" />
   </p>
 
+  <p><strong>Passionate about building scalable backend systems that solve real-world problems</strong></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-31A24C?style=flat-square" alt="Open to Work" />
+  </p>
+
   <p>
     <a href="https://github.com/HritikBudhwar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/hritik-budhwar-8aa528315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,21 +23,11 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate with a passion for **backend architecture** and **systems-level thinking**. Rather than just learning theory, I build real-world projects to understand how complex systems function under real constraints. 
+Computer Science undergraduate passionate about **backend architecture** and **systems-level thinking**. I build real-world projects to understand how complex systems function—not just memorize theory.
 
-I believe the best code is the code that solves problems elegantly and scales gracefully. My focus is on writing maintainable, well-designed solutions that other developers can understand, extend, and build upon.
+**Core Focus:** System design thinking, clean backend architecture, readable & testable code, and scalable solutions.
 
-> **What drives me:** Understanding how things work at a deeper level, then translating that knowledge into clean, efficient code.
-
----
-
-## Key Strengths
-
-- **System Design Mindset** - I think about data flow, architecture, and scalability from day one
-- **Backend Expertise** - Experienced in building REST APIs, event-driven systems, and distributed architectures
-- **Problem Solver** - I break down complex problems into manageable components and solve them systematically
-- **Code Quality Focused** - Writing code that's readable, testable, and maintainable is non-negotiable
-- **Continuous Learner** - Always exploring new patterns, technologies, and best practices
+> **What drives me:** Deep understanding of how things work, then translating that into elegant, efficient code.
 
 ---
 
@@ -71,6 +67,18 @@ I believe the best code is the code that solves problems elegantly and scales gr
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Tools & DevOps</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/CI%2FCD-3DDC84?style=flat" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -78,70 +86,61 @@ I believe the best code is the code that solves problems elegantly and scales gr
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HritikBudhwar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9" alt="GitHub Stats" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HritikBudhwar&show_icons=true&theme=github_dark&hide=contribs&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HritikBudhwar&theme=github-dark&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0ea5e9&sideLabels=888888&dates=888888" alt="GitHub Streak" height="180" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=HritikBudhwar&theme=github-dark&background=0d1117&border=0ea5e9" alt="GitHub Streak" />
 </div>
 
 ---
 
-## Featured Work
+## Featured Projects
 
-My repositories showcase hands-on experience with:
+Hands-on experience building:
 
-- **Distributed Systems** - Building systems that operate at scale with multiple components
-- **Backend Architecture** - Designing robust APIs and services with clean separation of concerns
-- **Event-Driven Design** - Implementing asynchronous, message-based architectures
-- **System Design Principles** - Applying real-world constraints and best practices
+- **DistributedVision-Kafka** - Distributed image processing pipeline with Client-Master-Worker architecture using Kafka
+- **Counselling Management System** - Full-stack system handling complex academic workflows and data management
+- **MindMap** - Visual knowledge structuring tool for organizing complex concepts
 
-Explore my [GitHub repositories](https://github.com/HritikBudhwar?tab=repositories) to see detailed implementations and my approach to solving complex problems.
+See my [GitHub repositories](https://github.com/HritikBudhwar?tab=repositories) for detailed implementations and real-world system design in action.
 
 ---
 
-## My Development Philosophy
+## Philosophy
 
-1. **Understand First** - Deep comprehension of requirements and constraints before writing code
-2. **Design Matters** - Spend time on data structures and architecture; good design makes implementation simple
-3. **Clarity Over Cleverness** - Code should be readable by someone encountering it for the first time
-4. **Test Everything** - Correctness is more important than speed initially; optimize only when necessary
-5. **Keep It Simple** - Refactor until the solution feels inevitable and elegant
+1. **Understand First** - Requirements and constraints before code
+2. **Design Matters** - Good architecture makes implementation simple
+3. **Clarity Over Cleverness** - Code is for humans first, machines second
+4. **Test Everything** - Correctness trumps premature optimization
+5. **Keep It Simple** - Refactor until solutions feel inevitable
 
 ---
 
 ## Currently Exploring
 
-- Advanced backend system design patterns and trade-offs
-- Event-driven architectures and asynchronous processing at scale
-- Distributed systems challenges (consistency, availability, partition tolerance)
-- Writing highly maintainable and testable code at production scale
+- Advanced backend system design & event-driven architectures at scale
+- Distributed systems trade-offs (consistency, availability, partition tolerance)
 
 ---
 
-## Let's Connect
+## Let's Build Together
 
-I'm actively looking for opportunities to:
-- Contribute to meaningful backend/systems projects
-- Collaborate on open-source initiatives
-- Learn from experienced engineers
-- Build solutions that make a real impact
+**Status:** Open to backend/systems engineering roles and open-source collaboration.
+
+**Reach out** for technical discussions, project opportunities, or just to chat about system design.
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HritikBudhwar&color=0ea5e9&style=flat-square" alt="Profile Views" />
-  
-  <p><i>Always excited to discuss system design, backend architecture, and solving complex problems.</i></p>
+  <a href="mailto:budhwarhritik2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hritik-budhwar-8aa528315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/HritikBudhwar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/HritikBudhwar"><img src="https://img.shields.io/badge/Codeforces-1f2937?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </div>
 
 ---
 
-## Contact
-
-Email: budhwarhritik2@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/hritik-budhwar-8aa528315/](https://www.linkedin.com/in/hritik-budhwar-8aa528315/)
-LeetCode: [https://leetcode.com/u/HritikBudhwar/](https://leetcode.com/u/HritikBudhwar/)
-Codeforces: [https://codeforces.com/profile/HritikBudhwar](https://codeforces.com/profile/HritikBudhwar)
-
----
-
-<p align="center">
-  <img src="https://github.com/HritikBudhwar/HritikBudhwar/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HritikBudhwar&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  
+  <p><i>Actively building solutions. Always learning. Let's connect.</i></p>
+</div>
